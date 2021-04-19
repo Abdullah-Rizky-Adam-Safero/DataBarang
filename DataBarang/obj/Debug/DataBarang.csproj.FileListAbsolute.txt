@@ -1,0 +1,10 @@
+D:\pelajaran\UKK 2021\DataBarang\DataBarang\bin\Debug\DataBarang.exe.config
+D:\pelajaran\UKK 2021\DataBarang\DataBarang\bin\Debug\DataBarang.exe
+D:\pelajaran\UKK 2021\DataBarang\DataBarang\bin\Debug\DataBarang.pdb
+D:\pelajaran\UKK 2021\DataBarang\DataBarang\obj\Debug\DataBarang.Form1.resources
+D:\pelajaran\UKK 2021\DataBarang\DataBarang\obj\Debug\DataBarang.Properties.Resources.resources
+D:\pelajaran\UKK 2021\DataBarang\DataBarang\obj\Debug\DataBarang.csproj.GenerateResource.cache
+D:\pelajaran\UKK 2021\DataBarang\DataBarang\obj\Debug\DataBarang.csproj.CoreCompileInputs.cache
+D:\pelajaran\UKK 2021\DataBarang\DataBarang\obj\Debug\DataBarang.exe
+D:\pelajaran\UKK 2021\DataBarang\DataBarang\obj\Debug\DataBarang.pdb
+D:\pelajaran\UKK 2021\DataBarang\DataBarang\bin\Debug\DataBarang.accdb
